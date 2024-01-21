@@ -45,7 +45,8 @@ For questions or concerns regarding this EULA, please contact M Harsha Deepan at
 
 Date: [21-01-2024]
 
-
+This EULA must not be taken as OFFICIAL EULA By M HARSHA DEEPAN Covering DisCam
+This EULA Does not have the Registered Copyrights as per law.
 
 
 
