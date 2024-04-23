@@ -12,8 +12,8 @@ For Publishing Modified Versions. See, [Licensing For Discam Software](https://g
 # Announcements
 - **DisCam , Presents .deb Linux Installers!**  
   Yes , You Read It Right!,  
-  DisCam Will Now Implement .deb Linux Executable installers For ALL Linux Distributions (that support .deb installers).
-  Keep Yourself Updated And Check On The "Releases Section"
+  DisCam Will Now Implement .deb Linux Executable installers For ALL Linux Distributions (that support .deb installers).  
+  Keep Yourself Updated And Check On The "Releases Section".
 - **DisCam Website Added to Google Search**  
   Update: Not All Pages Have Been Added. Only The Home Page.
   Search it Up Now: ["discam camera feed"](https://www.google.com/search?q=discam+camera+feed)
