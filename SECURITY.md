@@ -6,7 +6,7 @@ Security Policy For DisCam:
 - Camera Capturing , Photo Taken are all Stored Locally. Under The User's Possesion.
 - Server-App Communication Integration For Software :
 
-| Month    | Savings |
+| Version  |  Yes/No |
 | -------- | ------- |
 | 1.1.0    | No      |
 | pre-1.1  | No      |
