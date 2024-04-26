@@ -28,4 +28,8 @@ The Following Versions Are Secure and Have Been Implemented With The Security Po
 
 Found A Security Issue Or A vulnerability?
 
-Report Here:
+Report With One Of The Given Options:
+- [Google Forms](https://forms.gle/uAFoA7K5W5Y8fquPA)
+- [E-Mail Us (CrewVerify)](mailto:crewverify@gmail.com)
+- [DM on Instagram](https://instagram.com/notshoelaze)
+- [DM on Twitter](https://twitter.com/notshoelaze)
