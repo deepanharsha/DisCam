@@ -1,10 +1,16 @@
 Copyright Statement for Discam Software:
+# Acknowledgement
+- This statement has not been written by a lawyer or who has studied law.
+- This statement exists only to Protect discam from Copying OR Plagiarism.
+- DisCam's Copyrights Have not been registered in any copyright offices around the world.
 
-THIS STATEMENT IS APPLICABLE AS PER Article 5 Of This Statement.
+# Statement:
 
-1. **© 2024 M Harsha Deepan. All rights reserved.**
+THIS STATEMENT IS APPLICABLE To: Discam, the Discam website, and all versions of Discam. (FTD is Covered in Point No. 8)
 
-2. Discam is protected by copyright owned by M Harsha Deepan. This software is open-source, allowing users to edit and modify it; however, distribution without explicit permission from M Harsha Deepan is strictly prohibited.
+1. **© 2024 M Harsha Deepan. Rights Not Reserved**
+
+2. Discam is open-source, allowing users to edit and modify it; however, distribution without explicit permission from M Harsha Deepan is strictly prohibited.
 
 3. All versions of Discam, Article 8 for those labeled as "FTD" (Free To Distribute), fall under this license. Examples of FTD versions include "FTD-X.X.X," where "X" represents the respective version name. **THE FTD VERSION FALLS UNDER ARTICLE 8 OF THIS STATEMENT**
 
