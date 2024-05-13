@@ -4,9 +4,9 @@ Copyright Statement for Discam Software:
 - This statement exists only to Protect discam from Copying OR Plagiarism.
 - DisCam's Copyrights Have not been registered in any copyright offices around the world.
 
-# Statement:
+# Copyright:
 
-THIS STATEMENT IS APPLICABLE To: Discam, the Discam website, and all versions of Discam. (FTD is Covered in Point No. 7)
+THIS STATEMENT IS APPLICABLE TO: Discam, the Discam website, and all versions of Discam. (Please Refer To Article 7 For FTD Versions)
 
 1. **© 2024 M Harsha Deepan. Rights Not Reserved**
 
@@ -18,14 +18,18 @@ THIS STATEMENT IS APPLICABLE To: Discam, the Discam website, and all versions of
 
 5. This license exclusively covers Discam, the Discam website, and all versions of Discam, except for those designated as FTD.
 
+6. For inquiries regarding licensing or permission to distribute Discam, please contact M Harsha Deepan at [harshadeepan123@outlook.com.](mailto:harshadeepan123@outlook.com)
 
-6. For inquiries regarding licensing or permission to distribute Discam, please contact M Harsha Deepan at harshadeepan123@outlook.com.
-
-7. For FTD (Free To Distrubute) Versions , Please Note The Following If You Are Distributing The FTD Versions
+7. **For FTD (Free To Distrubute) Versions** , Please Note The Following If You Are Distributing The FTD Versions
 -  Examples of FTD versions include "FTD-X.X.X," where "X" represents the respective version name.
 - Please Mention The Names "Discam FTD vX.X.X" and "Originally Made & Developed By M Harsha Deepan" With a link to My GitHub Page
 - If You Can, Please Add This Verbatim License Statement To Your Fork.
 - By Redistributing FTD Versions , You NEED TO KEEP IT FREE OPEN SOURCE (FOSS)
-- If You Generate Revenue From The Redistribution Or Fork. Please Take Permission Before Publishing Or Generating Revenue. If The Revenue Is Above $200USD/Month. You Can Give Me A Cut Of 5%/Month For Insider Information Before Release Publicly And Developer Disscussion Community Server.
+- No Fee Is Required For Publishing,Modifying/Redistributing FTD Versions (Unless Redistributed When Earning Revenue Of More Than USD$1000/Month[*]() )
+
+### Permissions Beyond The Scope Of This License Can Be [Taken From M Harsha Deepan](mailto:harshadeepan123@outlook.com)
 
 **Thank you for respecting the intellectual property rights of M Harsha Deepan and for your compliance with this copyright statement.**
+
+## Footnotes
+*This is Not Always The Case (Sometimes, If The Versions are being used By Many People and Commercially)
