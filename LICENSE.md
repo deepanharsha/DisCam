@@ -5,7 +5,7 @@ Copyright Statement for Discam Software:
 - DisCam's Copyrights Have not been registered in any copyright offices around the world.
 
 # Copyright:
-
+<sub><sup> The Points 1,2,3 to 7 are , in this statement mentioned or known as "Articles" </sup></sub>  
 THIS STATEMENT IS APPLICABLE TO: Discam, the Discam website, and all versions of Discam. (Please Refer To Article 7 For FTD Versions)
 
 1. **© 2024 M Harsha Deepan. Rights Not Reserved**
@@ -20,16 +20,19 @@ THIS STATEMENT IS APPLICABLE TO: Discam, the Discam website, and all versions of
 
 6. For inquiries regarding licensing or permission to distribute Discam, please contact M Harsha Deepan at [harshadeepan123@outlook.com.](mailto:harshadeepan123@outlook.com)
 
-7. **For FTD (Free To Distrubute) Versions** , Please Note The Following If You Are Distributing The FTD Versions
+7. **For FTD (Free To Distrubute) Versions** ,
+Please Note The Following If You Are Distributing The FTD Versions:
 -  Examples of FTD versions include "FTD-X.X.X," where "X" represents the respective version name.
-- Please Mention The Names "Discam FTD vX.X.X" and "Originally Made & Developed By M Harsha Deepan" With a link to My GitHub Page
-- If You Can, Please Add This Verbatim License Statement To Your Fork.
-- By Redistributing FTD Versions , You NEED TO KEEP IT FREE OPEN SOURCE (FOSS)
-- No Fee Is Required For Publishing,Modifying/Redistributing FTD Versions (Unless Redistributed When Earning Revenue Of More Than USD$1000/Month[*]() )
+- Please Mention The Names "Discam FTD vX.X.X" and "Originally Made & Developed By M Harsha Deepan" With a link to My GitHub Page**
+- If You Can, Please Add This Verbatim License Statement To Your Fork.<sup>[1]</sup>
+- By Redistributing FTD Versions , You NEED TO KEEP IT FREE OPEN SOURCE (FOSS)**
+- No Fee Is Required For Publishing,Modifying/Redistributing FTD Versions (Unless Redistributed When Earning Revenue Of More Than USD$1000/Month[*](https://github.com/deepanharsha/DisCam/?tab=License-1-ov-file#footnotes) )
 
 ### Permissions Beyond The Scope Of This License Can Be [Taken From M Harsha Deepan](mailto:harshadeepan123@outlook.com)
 
 **Thank you for respecting the intellectual property rights of M Harsha Deepan and for your compliance with this copyright statement.**
 
 ## Footnotes
-*This is Not Always The Case (Sometimes, If The Versions are being used By Many People and Commercially)
+*This is Not Always The Case (Sometimes, If The Versions are being used By Many People and Commercially).  
+**This Can Be Avoided By Asking Me For Permission.  
+<sup>[1]</sup> Optional, Not Required Unless Enforced Specifically.  
