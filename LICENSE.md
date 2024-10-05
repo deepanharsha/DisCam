@@ -36,6 +36,8 @@ Please Note The Following If You Are Distributing The FTD Versions:
 - If a distribution is considered unfair,illegal or a violation of The agreed upon Terms of Distibution, our team or the owner can reject or stop the ditribution.
 - For a Distributors License Please Contact M Harsha Deepan at [harshadeepan11@gmail.com.](mailto:harshadeepan11@gmail.com) 
 
+9.**This statement is Subject to Change without any prior notice to anyone or anything by DisCam Officials, Administrators and/or Owner.** It is reccommended to keep yourself frequently updated of this license or any changes on this license at this page itself.
+
 ### Permissions Beyond The Scope Of This License Can Be [Taken From M Harsha Deepan](mailto:harshadeepan11@gmail.com)
 
 **Thank you for respecting the intellectual property rights of M Harsha Deepan and for your compliance with this copyright statement.**
