@@ -18,12 +18,13 @@ Security Policy For DisCam:
 
 The Following Versions Are Secure and Have Been Implemented With The Security Policy
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.1.0   | :white_check_mark: |
-| pre-1.1 | Partial , Unreliable |
-| 1.0.0   | :white_check_mark: |
-| 0.0.1   | :x:                |
+| Version         | Supported          |
+| -------         | ------------------ |
+| insfix-1.1.0    | :white_check_mark: |
+| 1.1.0           | :white_check_mark: |
+| pre-1.1         | Partial , Unreliable |
+| 1.0.0           | :white_check_mark: |
+| 0.0.1           | :x:                |
 
 ## Reporting a Vulnerability
 
