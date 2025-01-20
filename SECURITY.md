@@ -4,14 +4,15 @@ Security Policy For DisCam:
 - We Follow Our [Privacy Policy](https://discam.vercel.app/license/privacy.html)
 - DisCam , Currently Operates Completely Offline. Which Makes It Seperated From The Internet Or Networks. This Makes it almost near-impossible to steal your information
 - Camera Capturing , Photo Taken are all Stored Locally. Under The User's Possesion.
-- Server-App Communication Integration For Software :
+### Server-App Communication Integration For Software :
 
-| Version  |  Yes/No |
-| -------- | ------- |
-| 1.1.0    | No      |
-| pre-1.1  | No      |
-| 1.0.0    | No      |
-| 0.0.1    | No      |
+| Version      |  Yes/No |
+| --------     | ------- |
+| insfix-1.1.0 | No      |
+| 1.1.0        | No      |
+| pre-1.1      | No      |
+| 1.0.0        | No      |
+| 0.0.1        | No      |
 
 ## Supported Versions
 
@@ -29,7 +30,5 @@ The Following Versions Are Secure and Have Been Implemented With The Security Po
 Found A Security Issue Or A vulnerability?
 
 Report With One Of The Given Options:
-- [Google Forms](https://forms.gle/uAFoA7K5W5Y8fquPA)
-- [E-Mail Us (CrewVerify)](mailto:crewverify@gmail.com)
-- [DM on Instagram](https://instagram.com/notshoelaze)
-- [DM on Twitter](https://twitter.com/notshoelaze)
+- [E-Mail Us](mailto:crewverify+discam@gmail.com)
+- [Raise an Issue](https://github.com/deepanharsha/DisCam/issues/new) **(BEST OPTION)**
