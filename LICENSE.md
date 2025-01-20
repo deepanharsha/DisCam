@@ -8,7 +8,7 @@ Copyright Statement for Discam Software:
 <sub><sup> The Points 1 to 8 are , in this statement mentioned or known as "Articles" </sup></sub>  
 THIS STATEMENT IS APPLICABLE TO: Discam, the Discam website, and all versions of Discam.
 
-1. **© 2024 M Harsha Deepan. Rights Not Reserved**
+1. **© 2025 M Harsha Deepan. Rights Not Reserved**
 
 2. Discam is open-source, allowing users to edit and modify it; however, distribution without explicit permission from M Harsha Deepan is strictly prohibited.
 
