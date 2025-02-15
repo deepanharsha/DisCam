@@ -10,6 +10,7 @@ Developers Can Customise DisCam As per their wish and use it
 For Publishing Modified Versions. See, [Licensing For Discam Software](https://github.com/deepanharsha/DisCam/blob/main/LICENSE.md)
 
 # Announcements
+- **FTD-1.0.0** RELEASED!
 - Introducing, DisCam Windows Installers!
   Worry Free, Setup Easy With DisCam Windows Installers
   **Available With Release v1.1 Or Later**
