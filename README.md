@@ -11,6 +11,8 @@ For Publishing Modified Versions. See, [Licensing For Discam Software](https://g
 
 # Announcements
 - **FTD-1.0.0** RELEASED!
+- **.deb Installers Discontinued! 😔**
+  Due to the Lack of installation methods of Cx_Freeze on linux, .deb installers have been discontinued.
 - Introducing, DisCam Windows Installers!  
   Worry Free, Setup Easy With DisCam Windows Installers  
   **Available With Release v1.1 Or Later**
