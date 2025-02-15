@@ -11,14 +11,14 @@ For Publishing Modified Versions. See, [Licensing For Discam Software](https://g
 
 # Announcements
 - **FTD-1.0.0** RELEASED!
-- Introducing, DisCam Windows Installers!
-  Worry Free, Setup Easy With DisCam Windows Installers
+- Introducing, DisCam Windows Installers!  
+  Worry Free, Setup Easy With DisCam Windows Installers  
   **Available With Release v1.1 Or Later**
-- DisCam , Presents .deb Linux Installers!
+- DisCam , Presents .deb Linux Installers!  
   Yes , You Read It Right!,  
   DisCam Will Now Implement .deb Linux Executable installers For ALL Linux Distributions (that support .deb installers).  
   Keep Yourself Updated And Check On The "Releases Section".
-- DisCam Website Added to Google Search
-  Update: Not All Pages Have Been Added. Only The Home Page.
+- DisCam Website Added to Google Search.  
+  Update: Not All Pages Have Been Added. Only The Home Page.  
   Search it Up Now: ["discam camera feed"](https://www.google.com/search?q=discam+camera+feed)
 
