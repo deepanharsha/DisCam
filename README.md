@@ -1,6 +1,12 @@
 # About
 **Discam** is a Simple Camera-Feed Software Built in Python
 
+# Donate
+Maintaining, Improving and Making Discam Available for others is a main objective. Help us throughout our journey. By Donating at least $1
+[![Donate with Cointr.ee](https://crewpublic.vercel.app/donate.png)
+](https://cointr.ee/deepanharsha)  
+A Donation would be Gladly Appreciated.
+
 # Universally , Cross-Platform
 Because **DisCam** Is Built In Python.  
 It is Compatible with All Operating Systems Which Support Python 3 (Dependencies Required)
