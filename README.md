@@ -2,7 +2,7 @@
 **Discam** is a Simple Camera-Feed Software Built in Python
 
 # Donate
-Maintaining, Improving and Making Discam Available for others is a main objective. Help us throughout our journey. By Donating at least $1
+Maintaining, Improving and Making Discam Available for others is a main objective. Help us throughout our journey. By Donating at least $1  
 [Donate with Cointr.ee](https://cointr.ee/deepanharsha) (Min: $1USD)  
    
 OR  
