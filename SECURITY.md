@@ -1,4 +1,9 @@
-# Security Policy
+# Discontinued
+### DisCam has been discontinued and does not guarantee security anymore.  
+this policy is invalid as the software is deprecated but if you want to you can read the old version:
+
+
+# Old Security Policy
 Security Policy For DisCam:
 - We Do Not Collect Your Personal Information
 - We Follow Our [Privacy Policy](https://discam.vercel.app/license/privacy.html)
