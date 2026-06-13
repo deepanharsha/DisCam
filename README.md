@@ -1,18 +1,12 @@
+# Discontinued
+### DisCam Probably Won't be updated.
+there are better fish in the sea, so i do not find a use for discam in its current stage. that's all from me. I won't be updating DisCam Anymore.  
+if i have caused any inconvenience (probably not), im sorry for that.  
+you can search for alternatives or just use the inbuilt camera app on your device.
+
 # About
 **Discam** is a Simple Camera-Feed Software Built in Python
 
-# Donate
-Maintaining, Improving and Making Discam Available for others is a main objective. Help us throughout our journey. By Donating at least $1  
-[Donate with Cointr.ee](https://cointr.ee/deepanharsha) (Min: $1USD)  
-   
-OR  
-   
-<a href="https://nowpayments.io/donation?api_key=2QF904V-6604308-P9CJ8TD-TSVCBA8" target="_blank" rel="noreferrer noopener">
-    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a> (Min: $2 to $10 USD)  
-
-A Donation would be Gladly Appreciated.  
-<sup><sub>We currently only accept donations through crypto, sorry for the inconvenience</sub></sup>
 # Universally , Cross-Platform
 Because **DisCam** Is Built In Python.  
 It is Compatible with All Operating Systems Which Support Python 3 (Dependencies Required)
